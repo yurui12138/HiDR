@@ -2,6 +2,7 @@
 
 #### Chinese Sentence Semantic Matching with Hierarchical CNN Based on Dimension-augmented Representation
 Rui Yu, Wenpeng Lu, Yifeng Li, Jiguo Yu, Guoqiang Zhang, Xu Zhang
+
 The paper has been accepted by IJCNN.
 
 #### Prerequisites
